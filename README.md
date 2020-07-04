@@ -66,5 +66,5 @@ print(output)
 ```
 
 ```PYTHON
->> The script run for 0h 10min and 20sec
+>> The script run for 02h 06min and 20sec
 ```
