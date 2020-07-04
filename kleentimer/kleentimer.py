@@ -5,7 +5,7 @@ class KleenTimer:
     def __init__(self):
         self.start_time = 0
         self.end_time = 0
-        self.fmt = "{hours}:{minutes}:{secondes}"
+        self.fmt = "{hours:02d}:{minutes:02d}:{secondes:02d}"
 
     def init_timer(self, fmt):
         self.fmt = fmt
